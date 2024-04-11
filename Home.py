@@ -66,7 +66,7 @@ with st.container():
         st.title(" ")
         st.title(" ")
         st.title(" ")
-        resized_image = resize_image("images//son.jpeg", 300)
+        resized_image = resize_image("images//Foto.PNG", 700)
         st.image(resized_image)
 
 
